@@ -4,7 +4,7 @@ Project Baryonyx is focused around the restoration of a 1994 Jeep Wrangler YJ - 
 
 # Contents
 ## Diagrams
-So I can keep track where cables, hoses and other things of complexity beyond a nut and a bolt I will create diagrams that will hopefully allow me to put it all back together in the correct way. While official references might exist I either haven't found them or consider them disappointing so this folder is where I'll store the source and PNG exports of the ones I have designed.
+So I can keep track of where cables, hoses and other things of complexity (beyond a nut and a bolt) will go, I will create diagrams that will hopefully allow me to put it all back together in the correct order. While official references might exist I either haven't found them or consider them disappointing, so this folder is where I'll store the source and PNG exports of the ones I have designed.
 
 ### Diagrams so Far
 * Intake manifold vacuum connections
