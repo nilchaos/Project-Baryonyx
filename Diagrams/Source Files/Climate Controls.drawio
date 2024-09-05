@@ -1,0 +1,43 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="Jgi37NrH8wvPOqcOAd4K">
+    <mxGraphModel dx="1146" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MttIEdoipprTn2xN52k4-1" value="Dashboard&lt;div&gt;Climate Control&lt;/div&gt;&lt;div&gt;Panel&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="639" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MttIEdoipprTn2xN52k4-2" value="Defrost&lt;div&gt;Gate&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="399" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MttIEdoipprTn2xN52k4-3" value="Blend&lt;div&gt;Gate&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="399" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MttIEdoipprTn2xN52k4-4" value="Vent&lt;div&gt;Gate&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MttIEdoipprTn2xN52k4-5" value="Blower&lt;div&gt;Motor&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="90" y="399" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MttIEdoipprTn2xN52k4-7" value="&lt;div&gt;Cowl&lt;/div&gt;Vacuum&lt;div&gt;Motor&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="250" y="129" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MttIEdoipprTn2xN52k4-8" value="Cowl&lt;div&gt;Gate&lt;/div&gt;&lt;div&gt;L&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="129" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MttIEdoipprTn2xN52k4-9" value="Cowl&lt;div&gt;Gate&lt;/div&gt;&lt;div&gt;R&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="129" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MttIEdoipprTn2xN52k4-10" value="Heater&lt;div&gt;Core&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;" parent="1" vertex="1">
+          <mxGeometry x="230" y="399" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MttIEdoipprTn2xN52k4-18" value="Defroster Vents" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="313" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MttIEdoipprTn2xN52k4-19" value="Footwell Vents" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="509" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
