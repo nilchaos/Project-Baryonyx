@@ -7,7 +7,7 @@ Project Baryonyx is focused around the restoration of a 1994 Jeep Wrangler YJ - 
 So I can keep track of where cables, hoses and other things of complexity (beyond a nut and a bolt) will go, I will create diagrams that will hopefully allow me to put it all back together in the correct order. While official references might exist I either haven't found them or consider them disappointing, so this folder is where I'll store the source and PNG exports of the ones I have designed.
 
 ### Diagrams so Far
-* [Intake Manifold Vacuum Connections](<Diagrams\Intake Manifold - Vacuum Lines.png>)
+* [Intake Manifold Vacuum Connections](<Diagrams/Intake Manifold - Vacuum Lines.pngg>)
 * [Climate Control Overview](<Diagrams/Climate Control System.png>)
 
 ### Diagrams Needed
