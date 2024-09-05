@@ -3,6 +3,16 @@
 Project Baryonyx is focused around the restoration of a 1994 Jeep Wrangler YJ - including all the pitfalls, caveats and bits and pieces I feel could be documented for others
 
 # Contents
+## Diagrams
+So I can keep track where cables, hoses and other things of complexity beyond a nut and a bolt I will create diagrams that will hopefully allow me to put it all back together in the correct way. While official references might exist I either haven't found them or consider them disappointing so this folder is where I'll store the source and PNG exports of the ones I have designed.
+
+### Diagrams so Far
+* Intake manifold vacuum connections
+* Climate control overview
+
+### Diagrams Needed
+* Vacuum lines going from intake manifold to both "Command-Trac 4WD" and climate control cowl vent gate vacuum motor
+
 ## Hardware
 This encompanies all the fixings, fasteners and everything in between including hoses, barbs and all that other wonderful stuff. This will be organised into CSV sheets that make reference to the actual Jeep Parts Catalogue
 
