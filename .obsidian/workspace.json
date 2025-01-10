@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Replacement Part Development/Headlight Level Cables/Headlight Level Cables.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Headlight Level Cables"
+              "title": "README"
             }
           }
         ],
@@ -179,12 +179,18 @@
   },
   "active": "1c8a6fc8f7ecf4cf",
   "lastOpenFiles": [
-    "Replacement Part Development/Fuel Sender Hose Combs/Fuel Sender Hose Combs.md",
-    "Replacement Part Development/Headlight Level Cables/Headlight Level Cables.md",
-    "Replacement Part Development/Climate Control Housing Modifications/Climate Control Housing Modifications.md",
+    "Equipment and Tools/Hardtop Dolly/Hardtop Dolly.jpg",
+    "Equipment and Tools/Hardtop Dolly/New folder",
+    "Equipment and Tools/Hardtop Dolly/Plans",
+    "Equipment and Tools/Hardtop Dolly",
+    "Equipment and Tools/New folder",
     "Replacement Part Development/Climate Control Cables and Clips/Climate Control Cables and Clips.md",
+    "README.md",
+    "Replacement Part Development/Climate Control Housing Modifications/Climate Control Housing Modifications.md",
+    "Staging/Staging and Planning Overview.md",
+    "Replacement Part Development/Headlight Level Cables/Headlight Level Cables.md",
+    "Replacement Part Development/Fuel Sender Hose Combs/Fuel Sender Hose Combs.md",
     "Replacement Part Development/Climate Control Cables and Clips/3D Models",
-    "Replacement Part Development/Climate Control Cables and Clips/New folder",
-    "README.md"
+    "Replacement Part Development/Climate Control Cables and Clips/New folder"
   ]
 }
